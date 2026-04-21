@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.png" alt="Shahid Noushad Banner" />
-</div>
-
 # Shahid Noushad
 
 **Backend-Focused MERN Developer | System Design Enthusiast**
